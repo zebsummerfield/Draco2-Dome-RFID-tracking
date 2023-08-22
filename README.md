@@ -3,4 +3,4 @@ The Durham University Physics Department runs 4 professional telescopes. My inte
 
 This repository contains those scripts and the relevant documentation.
 
-The scripts were built off the mfrc522 library: https://pypi.org/project/mfrc522/.
+The scripts were built using the mfrc522 library: https://pypi.org/project/mfrc522/.
